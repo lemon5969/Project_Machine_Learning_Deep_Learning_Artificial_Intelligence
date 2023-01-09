@@ -40,3 +40,16 @@ mape_i: 0.08564731795892705
 ![alt text](https://i.ibb.co/xzKCX32/epoch-loss2.png)
 ## Conclusion
 This model can predict new cases for covid19 in Malaysia with Mean Absolute Percentage Error less than 0.1%
+
+
+
+## Credits:
+This data sets is taken from
+GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19
+epidemic in Malaysia. Powered by CPRC, CPRC Hospital System,
+MKAK, and MySejahtera.
+
+link https://github.com/MoH-Malaysia/covid19-public
+
+also this project is refer from https://github.com/safwanshamsir99
+
